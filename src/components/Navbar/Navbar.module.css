@@ -1,8 +1,18 @@
 .nav {
   grid-area: nav;
   background-color: cadetblue;
+  padding: 20px;
 }
 
-.item {
+.item + .item{
+  padding-top: 10px;
+}
+
+.item a{
   color: white;
+  text-decoration: none;
+}
+
+.item a.activeLink {
+  color: gainsboro;
 }
