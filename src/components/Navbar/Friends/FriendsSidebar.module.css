@@ -1,0 +1,13 @@
+
+.friends img {
+  height: 40px;
+  width: 40px;
+}
+
+.friendsLink {
+  margin-top: 10px;
+}
+
+.friendsLink a {
+  color: #ffffff;
+}

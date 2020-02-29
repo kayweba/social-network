@@ -16,3 +16,15 @@
 .item a.activeLink {
   color: gainsboro;
 }
+
+.friends {
+  color: #ffffff;
+  margin-top: 30px;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.friends > a {
+  margin-top: 7px;
+}
